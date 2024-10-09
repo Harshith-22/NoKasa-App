@@ -17,10 +17,14 @@ samples, guidance on mobile development, and a full API reference.
 # NoKasa-App
 # Nokasa-App-Demo-Images
 ![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img1.png)
+![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img1_1.png)
+![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img1_2.png)
+![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img1_3.png)
 ![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img2.png)
 ![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img3.png)
 ![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img4.png)
 ![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img5.png)
+![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img5_1.png)
 ![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img6.png)
 ![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img7.png)
 ![Project Screenshot](https://github.com/Harshith-22/Nokasa-App/blob/main/NokasaApp_demo/img8.png)

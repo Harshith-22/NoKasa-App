@@ -46,7 +46,7 @@ class _SearchLocationPageState extends State<SearchLocationPage> {
 
   void getSuggestion(String input) async {
     // ignore: no_leading_underscores_for_local_identifiers, non_constant_identifier_names
-    final _kAPI_KEY = 'AIzaSyAQG14EFZsihB2VMa5IJoflL2P_DGSoBXA';
+    final _kAPI_KEY = 'USE_YOUR_OWN_GOOGLE_API_KEY';
     String baseURL =
         'https://maps.googleapis.com/maps/api/place/autocomplete/json';
     String requestURL =
